@@ -29,7 +29,7 @@ Seçenekler:
 Profesyonel Ddos = 6 (test tam çalışmayabilir veya zararlı olabilir)
 
 	''')
-	ddos = input("Seçiminizi Yapınız > ")
+ddos = input("Seçiminizi Yapınız > ")
 	if(ddos=="1"):
 		
 		hedef_ip = str(input("Hedef ip giriniz > "))
