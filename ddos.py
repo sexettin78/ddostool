@@ -1,4 +1,5 @@
 import os
+import random
 os.system("clear")
 print("\033[91m")
 os.system("figlet Sexettin DDOS")
