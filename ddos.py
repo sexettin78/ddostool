@@ -1,3 +1,4 @@
+	import os
 	os.system("clear")
 	print("\033[91m")
 	os.system("figlet Sexettin DDOS")
